@@ -10,3 +10,4 @@ Implemented flexbox, grid, and hover effects for smooth styling.
 
 ## screenshot
 
+![Landing Page](https://github.com/7225859103/Landing-Page/blob/main/images/screenshot.png.png)
